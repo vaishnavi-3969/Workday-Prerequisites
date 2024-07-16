@@ -1,2 +1,5 @@
-import { randomNumber } from "./util";
-console.log(randomNumber);
+import { apiKey } from "./util";
+
+console.log(apiKey)
+ 
+

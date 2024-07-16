@@ -1,5 +1,3 @@
-randomNumber = 3
+export let apiKey = "abcd123"
 
-export {
-    randomNumber
-}
+export default "akdfakdfaksdjfaksd"
