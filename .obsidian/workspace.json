@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8fae6791627d33",
+        "id": "a127aeaaed022a27",
         "type": "tabs",
         "children": [
           {
-            "id": "60cacc7fb737521d",
+            "id": "14255c30b6666bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React JS/React - The Complete Guide 2024 (incl. Next.js, Redux).md",
+                "file": "React JS/Notes - React - The Complete Guide 2024 (incl. Next.js, Redux).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React JS/React - The Complete Guide 2024 (incl. Next.js, Redux).md",
+                "file": "React JS/Notes - React - The Complete Guide 2024 (incl. Next.js, Redux).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React JS/React - The Complete Guide 2024 (incl. Next.js, Redux).md",
+                "file": "React JS/Notes - React - The Complete Guide 2024 (incl. Next.js, Redux).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React JS/React - The Complete Guide 2024 (incl. Next.js, Redux).md"
+                "file": "React JS/Notes - React - The Complete Guide 2024 (incl. Next.js, Redux).md"
               }
             }
           }
@@ -147,6 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60cacc7fb737521d",
-  "lastOpenFiles": []
+  "active": "14255c30b6666bb7",
+  "lastOpenFiles": [
+    "SOLID Principles/Notes.md",
+    "SOLID Principles/Pasted image 20240717030245.png",
+    "SOLID Principles/Pasted image 20240717030352.png",
+    "Untitled.md",
+    "Basics of Java/Notes.md",
+    "React JS/Notes - React - The Complete Guide 2024 (incl. Next.js, Redux).md",
+    "JUnit/Checklist.md",
+    "Java Spring Boot/Checklist.md",
+    "SOLID Principles/SOLID Principles - Introducing Software architecture and design.md"
+  ]
 }
