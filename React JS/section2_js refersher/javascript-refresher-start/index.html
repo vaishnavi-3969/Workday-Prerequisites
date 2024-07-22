@@ -25,4 +25,26 @@
       <li>Tricky Parts</li>
     </ul>
   </body>
+  <script>
+    class User {
+      constructor (name, age){
+        this.name = name;
+        this.age = age;
+      }
+      greet () {
+        console.log("hi!")
+      }
+    }
+    const user1 = new User("Manual", 34);
+    console.log(user1)
+    const object = {
+      name: "vaishnavi",
+      age: "21",
+      greet() {
+        console.log("hello!")
+      }
+    }
+    console.log(object)
+    object.greet()
+  </script>
 </html>
