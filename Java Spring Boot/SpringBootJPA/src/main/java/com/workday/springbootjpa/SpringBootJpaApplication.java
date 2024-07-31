@@ -1,12 +1,13 @@
-package com.workday.webapp;
+package com.workday.springbootjpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebAppApplication {
+public class SpringBootJpaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebAppApplication.class, args);
+        SpringApplication.run(SpringBootJpaApplication.class, args);
     }
+
 }

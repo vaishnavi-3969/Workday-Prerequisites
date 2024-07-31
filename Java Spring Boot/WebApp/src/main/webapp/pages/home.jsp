@@ -10,7 +10,8 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>I love Java</h1>
-    <h1>Welcome ${name}</h1>
+<%--    <h1>I love Java</h1>--%>
+<%--    <h1>Welcome ${name}</h1>--%>
+    <h1>Welcome ${obj.aid}, ${obj.aname}, ${obj.lang}</h1>
 </body>
 </html>
