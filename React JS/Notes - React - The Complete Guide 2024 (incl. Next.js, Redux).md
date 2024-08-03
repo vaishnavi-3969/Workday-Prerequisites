@@ -132,7 +132,19 @@ const result = arrayName.findIndex((item) => {
 })
 
 ### destructuring
+- const {name: username , age} = {
+	name: "vaishnavi",
+	age: 21,
+}
+
+const name = user.name
+const age = user.age
+
+
 ### destructuring in function parameter lists
+
+
+
 ### the spread operator
 ### revisiting control structures
 ### maniupulating the dom - not with react
